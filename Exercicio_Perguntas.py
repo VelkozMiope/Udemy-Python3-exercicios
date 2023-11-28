@@ -1,3 +1,5 @@
+# Exercício de perguntas e respostas, com multipla escolha e mensagem de acordo com número de acertos
+
 perguntas = [
     {
         'Pergunta': 'Quanto é 2 + 2?',

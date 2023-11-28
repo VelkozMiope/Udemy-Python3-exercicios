@@ -1,3 +1,5 @@
+# Exercício de calculo de IMC
+
 nome = 'Márcio'
 altura = 1.69
 peso = 56

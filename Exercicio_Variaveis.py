@@ -1,3 +1,5 @@
+# Exercício de teste de variáveis
+
 nome = 'Márcio'
 sobrenome = 'Paulin'
 idade = 23
